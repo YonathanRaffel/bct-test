@@ -1,7 +1,7 @@
 {
   "main.css": "/bct-test/static/css/main.b5523692.chunk.css",
-  "main.js": "/bct-test/static/js/main.71e43bf5.chunk.js",
-  "main.js.map": "/bct-test/static/js/main.71e43bf5.chunk.js.map",
+  "main.js": "/bct-test/static/js/main.c07c2bf3.chunk.js",
+  "main.js.map": "/bct-test/static/js/main.c07c2bf3.chunk.js.map",
   "static/js/1.4210380f.chunk.js": "/bct-test/static/js/1.4210380f.chunk.js",
   "static/js/1.4210380f.chunk.js.map": "/bct-test/static/js/1.4210380f.chunk.js.map",
   "runtime~main.js": "/bct-test/static/js/runtime~main.2873a23c.js",
@@ -18,6 +18,6 @@
   "static/media/tesla.jpg": "/bct-test/static/media/tesla.ff16203f.jpg",
   "static/css/main.b5523692.chunk.css.map": "/bct-test/static/css/main.b5523692.chunk.css.map",
   "index.html": "/bct-test/index.html",
-  "precache-manifest.7e145a587f3c7021c767b230d45429b5.js": "/bct-test/precache-manifest.7e145a587f3c7021c767b230d45429b5.js",
+  "precache-manifest.b97c581991f0c9cce0513d8553cb9f28.js": "/bct-test/precache-manifest.b97c581991f0c9cce0513d8553cb9f28.js",
   "service-worker.js": "/bct-test/service-worker.js"
 }

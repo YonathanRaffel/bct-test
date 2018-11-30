@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/bct-test/static/media/wheel-21.e787dc92.png"
   },
   {
-    "revision": "c07c2bf3c3a917972cbc",
-    "url": "/bct-test/static/css/main.b5523692.chunk.css"
+    "revision": "39140521b1d66cd9a0d5",
+    "url": "/bct-test/static/css/main.b74f8fe7.chunk.css"
   },
   {
     "revision": "4210380f7c7215acd18c",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/bct-test/static/media/wheel-19.3b975a00.png"
   },
   {
-    "revision": "c07c2bf3c3a917972cbc",
-    "url": "/bct-test/static/js/main.c07c2bf3.chunk.js"
+    "revision": "39140521b1d66cd9a0d5",
+    "url": "/bct-test/static/js/main.39140521.chunk.js"
   },
   {
     "revision": "7ee66eea8c5fcc82180de8776e3e37ce",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/bct-test/static/media/p100d.62ed87b4.svg"
   },
   {
-    "revision": "b2a98d23a7318bebd5a9d5051c6de2a6",
+    "revision": "e9f7b0bed273831ba481a1b1880f6f44",
     "url": "/bct-test/index.html"
   }
 ];
